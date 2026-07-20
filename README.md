@@ -84,6 +84,14 @@ The confusion matrix illustrates the model's prediction performance on the valid
 
 ---
 
+## Project Notebook
+
+The complete implementation and experimental analysis are available in:
+
+- [`notebooks/final_odd_one_out_report.ipynb`](notebooks/final_odd_one_out_report.ipynb)
+
+---
+
 ## Repository Structure
 
 ```text
@@ -100,7 +108,5 @@ Deep-Learning-based-Visual-Similarity-Modeling-System
 ├── notebooks/
 │   └── final_odd_one_out_report.ipynb
 │
-├── src/
-├── requirements.txt
-└── LICENSE
+└── requirements.txt
 ```
