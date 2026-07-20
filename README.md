@@ -83,3 +83,24 @@ The confusion matrix illustrates the model's prediction performance on the valid
 ![VAE Loss](images/vae_losss.png)
 
 ---
+
+## Repository Structure
+
+```text
+Deep-Learning-based-Visual-Similarity-Modeling-System
+│
+├── README.md
+├── images/
+│   ├── workflow.png
+│   ├── triplet_training_curves.png
+│   ├── triplet_confusion_matrix.png
+│   ├── transfer_learning_accuracy.png
+│   └── vae_training_loss.png
+│
+├── notebooks/
+│   └── final_odd_one_out_report.ipynb
+│
+├── src/
+├── requirements.txt
+└── LICENSE
+```
