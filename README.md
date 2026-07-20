@@ -28,3 +28,18 @@ The learned feature embeddings were evaluated using cosine similarity to compare
 - Extracted feature embeddings and evaluated image similarity using cosine similarity.
 - Compared multiple pretrained architectures including VGG16, ResNet-50, ConvNeXt, and Vision Transformer.
 
+---
+
+## Technical Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Programming Language | Python |
+| Deep Learning | PyTorch |
+| Computer Vision | VGG16, ResNet-50, ConvNeXt, Vision Transformer (ViT) |
+| Representation Learning | Triplet Network, Variational Autoencoder (VAE) |
+| Similarity Measurement | Cosine Similarity |
+| Data Processing | NumPy, Pandas |
+| Visualization | Matplotlib |
+| Development Environment | Jupyter Notebook |
+
