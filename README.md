@@ -43,3 +43,43 @@ The learned feature embeddings were evaluated using cosine similarity to compare
 | Visualization | Matplotlib |
 | Development Environment | Jupyter Notebook |
 
+---
+
+## Experimental Results
+
+### Transfer Learning
+
+Comparison of four pretrained CNN/Transformer architectures.
+
+![Transfer Learning Accuracy Comparison](images/transfer_learning_accuracy_comparison.png)
+
+| Model | Accuracy |
+|--------|---------:|
+| VGG16 | 51.99% |
+| ConvNeXt | 45.68% |
+| ResNet50 | 45.62% |
+| ViT | 41.89% |
+
+### Triplet Network
+
+- Successfully learned image embeddings using metric learning.
+- Training and validation accuracy increased steadily during training.
+
+![Triplet Training Curves](images/training_curves.png)
+
+### Classification Performance
+
+The confusion matrix illustrates the model's prediction performance on the validation dataset.
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+---
+
+### Variational Autoencoder
+
+- Learned meaningful latent representations through unsupervised learning.
+- Reconstruction loss decreased consistently during optimization.
+
+![VAE Loss](images/vae_losss.png)
+
+---
