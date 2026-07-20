@@ -88,7 +88,7 @@ The confusion matrix illustrates the model's prediction performance on the valid
 
 The complete implementation and experimental analysis are available in:
 
-- [`notebooks/final_odd_one_out_report.ipynb`](notebooks/final_odd_one_out_report.ipynb)
+- [`notebooks/OOO_odd_one_out.ipynb`](notebooks/final_odd_one_out_report.ipynb)
 
 ---
 
@@ -106,7 +106,7 @@ Deep-Learning-based-Visual-Similarity-Modeling-System
 │   └── vae_training_loss.png
 │
 ├── notebooks/
-│   └── final_odd_one_out_report.ipynb
+│   └── OOO_odd_one_out.ipynb
 │
 └── requirements.txt
 ```
