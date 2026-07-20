@@ -88,7 +88,7 @@ The confusion matrix illustrates the model's prediction performance on the valid
 
 The complete implementation and experimental analysis are available in:
 
-- [`notebooks/OOO_odd_one_out.ipynb`](notebooks/final_odd_one_out_report.ipynb)
+- [`notebooks/OOO_odd_one_out.ipynb`](notebooks/OOO_odd_one_out.ipynb)
 
 ---
 
