@@ -1,0 +1,2 @@
+# Deep-Learning-based-Visual-Similarity-Modeling-System
+Built a PyTorch-based visual embedding framework for image similarity learning. Applied Triplet Loss for contrastive learning /metric learning and implemented a convolutional VAE for latent feature learning. Compared CNN models (VGG16, ResNet50, ConvNeXt) and Vision Transformer (ViT); evaluated transfer learning performance for vision applications.
